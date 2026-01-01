@@ -131,4 +131,3 @@ python game.py
 3. 地图数据使用JSON格式存储，可使用文本编辑器或地图编辑器修改
 4. 音频资源包括背景音乐和音效，位于 `assets/audio/` 和 `assets/sounds/` 文件夹中
 5. 游戏主程序为 `game.py`，旧版 `main.py` 已废弃
-6. 备份文件位于 `back/` 文件夹中，可用于恢复之前的版本
